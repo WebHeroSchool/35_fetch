@@ -1,4 +1,3 @@
-
 let body = document.body;
 
 let url = window.location.toString();
